@@ -1,2 +1,2 @@
 # FidetCabinet
- <img src="assets/img/Fidet-Compta-PIC" class="img-fluid" alt="">
+ <img src="assets/img/Fidet-Compta-PIC.png" class="img-fluid" alt="">
